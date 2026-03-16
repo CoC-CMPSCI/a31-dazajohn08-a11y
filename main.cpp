@@ -40,3 +40,4 @@ int main()
   cout << "Tickets sold for Class C " << ticketsC << " Sales Price for C   " << totalC << endl;
   cout << "Total Sales                              " << total << endl;
 }
+
